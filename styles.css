@@ -16,7 +16,7 @@ body {
     position: relative;
     height: 120px;
     width: 500px;
-    background: #FEFFA7;
+    background: #4635B1;
     border-radius: 20px;
     display: flex;
     align-items: center;
@@ -45,7 +45,7 @@ body {
 }
 
 .navbar ul li a i { 
-    color: #00FF9C;
+    color: #AEEA94;
     font-size: 38px;
     position: absolute;
 }
@@ -66,7 +66,7 @@ body {
     left: 34px;
     width: 25px;
     height: 36px;
-    background:#00FF9C;
+    background:#AEEA94;
     border-radius: 50%;
     transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
@@ -78,9 +78,9 @@ body {
     bottom: 50%;
     height: 22px;
     width: 20px;
-    background: #FEFFA7;
+    background: #4635B1;
     border-bottom-right-radius: 20px;
-    box-shadow: 0 10px 0 #00FF9C;
+    box-shadow: 0 10px 0 #AEEA94;
 }
 
 .indicator::after {
@@ -90,7 +90,7 @@ body {
     bottom: 50%;
     height: 22px;
     width: 20px;
-    background: #FEFFA7;
+    background: #4635B1;
     border-bottom-left-radius: 20px;
-    box-shadow: 0 10px 0 #00FF9C;
+    box-shadow: 0 10px 0 #AEEA94;
 }
